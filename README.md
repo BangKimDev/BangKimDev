@@ -25,9 +25,7 @@
 ###
 
 <div align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=BangDev-Ryu&theme=tokyonight&hide_border=true" />
   <img src="https://nirzak-streak-stats.vercel.app/?user=BangDev-Ryu&theme=tokyonight&hide_border=true" />
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=BangDev-Ryu&theme=tokyonight&hide_border=true&layout=compact" />
 
   <hr/>
 
