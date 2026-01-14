@@ -25,16 +25,19 @@
 ###
 
 <div align="center">
-  ![](https://github-readme-stats.vercel.app/api?username=BangDev-Ryu&theme=tokyonight&hide_border=true&include_all_commits=false&count_private=false)
-  ![](https://nirzak-streak-stats.vercel.app/?user=BangDev-Ryu&theme=tokyonight&hide_border=true)
-  ![](https://github-readme-stats.vercel.app/api/top-langs/?username=BangDev-Ryu&theme=tokyonight&hide_border=true&include_all_commits=false&count_private=false&layout=compact)
+  <img src="https://github-readme-stats.vercel.app/api?username=BangDev-Ryu&theme=tokyonight&hide_border=true" />
+  <img src="https://nirzak-streak-stats.vercel.app/?user=BangDev-Ryu&theme=tokyonight&hide_border=true" />
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=BangDev-Ryu&theme=tokyonight&hide_border=true&layout=compact" />
 
-  ---
-  ![LeetCode Stats](https://leetcard.jacoblin.cool/BangDev-Ryu?theme=dark&font=baloo)
+  <hr/>
 
-  ---
-  ![LeetCode Badge](https://leetcode-badge-showcase.vercel.app/api?username=BangDev-Ryu)
+  <img src="https://leetcard.jacoblin.cool/BangDev-Ryu?theme=dark" />
+
+  <hr/>
+
+  <img src="https://leetcode-badge-showcase.vercel.app/api?username=BangDev-Ryu" />
 </div>
+
 
 ###
 
