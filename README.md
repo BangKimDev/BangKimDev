@@ -25,9 +25,15 @@
 ###
 
 <div align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=BangDev-Ryu&hide_title=false&hide_rank=false&show_icons=true&include_all_commits=true&count_private=true&disable_animations=false&theme=dracula&locale=en&hide_border=false&order=1" height="150" alt="stats graph"  />
-  <img src="https://github-readme-stats.vercel.app/api/top-langs?username=BangDev-Ryu&locale=en&hide_title=false&layout=compact&card_width=320&langs_count=5&theme=dracula&hide_border=false&order=2" height="150" alt="languages graph"  />
-  <img src="https://github-profile-trophy.vercel.app?username=BangDev-Ryu&theme=dracula&column=-1&row=1&margin-w=8&margin-h=8&no-bg=false&no-frame=false&order=4" height="150" alt="trophy graph"  />
+  ![](https://github-readme-stats.vercel.app/api?username=BangDev-Ryu&theme=tokyonight&hide_border=true&include_all_commits=false&count_private=false)
+  ![](https://nirzak-streak-stats.vercel.app/?user=BangDev-Ryu&theme=tokyonight&hide_border=true)
+  ![](https://github-readme-stats.vercel.app/api/top-langs/?username=BangDev-Ryu&theme=tokyonight&hide_border=true&include_all_commits=false&count_private=false&layout=compact)
+
+  ---
+  ![LeetCode Stats](https://leetcard.jacoblin.cool/BangDev-Ryu?theme=dark&font=baloo)
+
+  ---
+  ![LeetCode Badge](https://leetcode-badge-showcase.vercel.app/api?username=BangDev-Ryu)
 </div>
 
 ###
