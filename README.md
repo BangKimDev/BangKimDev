@@ -25,7 +25,7 @@
 ###
 
 <div align="center">
-  <img src="https://nirzak-streak-stats.vercel.app/?user=BangDev-Ryu&theme=tokyonight&hide_border=true" />
+  <img src="https://nirzak-streak-stats.vercel.app/?user=BangKimDev&theme=tokyonight&hide_border=true" />
 
   <hr/>
 
@@ -39,4 +39,4 @@
 
 ###
 
-![snake gif](https://github.com/BangDev-Ryu/BangDev-Ryu/blob/output/github-snake-dark.svg)
+![snake gif](https://github.com/BangKimDev/BangKimDev/blob/output/github-snake-dark.svg)
