@@ -39,7 +39,9 @@
 ### Other
 
 <p align="center">
-  <img src="https://nirzak-streak-stats.vercel.app/?user=BangKimDev&theme=tokyonight&hide_border=true" width="48%" />
+  <img src="https://streak-stats.demolab.com/?user=BangKimDev&theme=tokyonight&hide_border=true" width="48%" />
+</p>
+<p align="center">
   <img src="https://github-stats-extended.vercel.app/api/top-langs/?username=BangKimDev&layout=compact&theme=tokyonight&hide_border=true" width="48%" />
 </p>
 
